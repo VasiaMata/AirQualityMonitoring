@@ -1,4 +1,4 @@
-# GDP Growth & Air Pollution (1700–2016)
+# GDP Growth and Air Pollution (1700–2016)
 
 Team Members: Sofia Zanti, Vasilisa Matafonova, Tim Marchenko
 
