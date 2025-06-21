@@ -29,7 +29,7 @@ ___
 5. **Report Writing**: Document findings, methodologies, and analysis.
 6. **Prediction Modeling**: Use historical data to forecast future air quality trends.
 ___
-## Tools & Techniques
+## Tools and Techniques
 - **Matplotlib + Seaborn**: Visualization of data
 - **Pandas**: Data manipulation and structuring
 - **NumPy**: Data calculations and predictions
@@ -44,7 +44,7 @@ ___
 - Ensemble models, particularly Random Forest, perform best
 
 ___
-## **Main Factors & Solutions**
+## **Main Factors and Solutions**
 - Early Pollution: Coal use. solution: Switch to solar/wind
 - Industrial Era: More coal with GDP growth. Solution: Promote clean tech
 - Modern Era: CO2 from cars. Solution: Encourage public transport, bike-friendly cities
